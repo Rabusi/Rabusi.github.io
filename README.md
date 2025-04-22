@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://github.com/Rabusi/Rabusi.github.io/blob/main/nazia.jpeg?raw=true" width="150" alt="Nazia Aslam">
-</p>
-
 
 # Welcome to My Personal Website
 
