@@ -1,14 +1,13 @@
-title: Nazia Aslam
+title: "Nazia Aslam"
 logo: nazia.jpeg
-description: Privacy-Preserving Video Anomaly Detection | Computer Vision | Deep Learning
+description: "Privacy-Preserving Video Anomaly Detection | Computer Vision | Deep Learning"
 
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
 
-
 author:
-  name: Nazia Aslam
+  name: "Nazia Aslam"
   avatar: nazia.jpeg
   bio: >
     Postdoc at Aalborg University. Researching privacy-preserving video anomaly detection and ethical AI.
